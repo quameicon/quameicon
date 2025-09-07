@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @quameicon
-- 👀 I’m interested in ...
-- 🌱 I’m currently pursuing a degree in computer engineering, L400.
-- 💞️ I’m looking to collaborate on computer engineering projects
-- 📫 You can send me a mail: llaquame@gmail.com or call on +233548592884
+- 👋 Hi, I’m Listowell (@quameicon)
+- 👀 I’m interested in programming and self-development
+- 🌱 I’m currently pursuing a masters degree in Applied Computer Science
+- 💞️ I’m looking to collaborate on machine learning projects!
+- 📫 You can send me an email: llaquame@gmail.com
 
 <!---
 quameicon/quameicon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
